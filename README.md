@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Shaltsa,
-😊 Meets me, "A Dedicated Learner" <p>
+😊 Meet me, "A Dedicated Learner" <p>
 **Cherishing Every Step of the Learning Process!** ✨
 ### Tools:
 <p>
