@@ -12,7 +12,7 @@
     - 💬 Ask me about anything.
     - 😄 Pronouns: She/Her
     - ⚡ Fun fact: I find immense joy in delving into self-improvement literature these days. 
-    - 📚 Favorite books: Atomic Habbit, Mindset
+    - 📚 Favorite books: Atomic Habits, Mindset
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=shaltsanadya&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaltsanadya&layout=compact" height=180 />
